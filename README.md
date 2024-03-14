@@ -21,15 +21,18 @@
 
 ## Sobre o Projeto
 
-
+Com a instrução de **Joaõ Vitor Pereira** e [**Vinicios Neves**](https://github.com/viniciosneves) esse projeto foi realizado, tendo como principal foco trabalhar com a estilização de componentes com Styled Components.
 
 ## Objetivos do Projeto
 
-
+- Criar uma aplicação com Vite e não CRA(Creat React APP);
+- Conhecer as vantagens do Styled Components
 
 ## Funcionalidades do Projeto
 
-
+- **Buscar por tags:** Mostra uma lista somente com imagens com a respectiva tag. O padrão é ter todas.
+- **Favoritar:** No coraçãozinho, ao ser pressionado, vai alternar entre preenchido e vazio.
+- **Expandir:** No icone logo ao lado do coração, ao ser pressionad vai renderizar a imagem em uma nova modal e em um tamanho maior.
 
 ## Tecnolgias Utilizadas
 
@@ -40,13 +43,7 @@
 
 ## Layouts
 
-### Desktop Layout
-
-### Tablet Layout
-
-### Mobile Layout
-
-## Adaptações
+**Width 1280px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/spaceapp-1280px.jpg
 
 ## Autor
 
