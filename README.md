@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/coelhoalexandre/projeto-alura-space-app/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Em progresso-blue.svg" alt="Em Progresso">
+  <a href="https://github.com/coelhoalexandre/projeto-alura-space-app/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
 </div>
 
@@ -12,11 +12,7 @@
 - [Objetivos do Projeto](#objetivos-do-projeto)
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
-- [Layouts](#layouts)
-  - [Desktop Layout](#desktop-layout)
-  - [Tablet Layout](#tablet-layout)
-  - [Mobile Layout](#mobile-layout)
-- [Adaptações](#adaptações)
+- [Layout](#layout)
 - [Autor](#autor)
 
 ## Sobre o Projeto
@@ -41,7 +37,7 @@ Com a instrução de **Joaõ Vitor Pereira** e [**Vinicios Neves**](https://gith
 3. JS
 4. React
 
-## Layouts
+## Layout
 
 **Width 1280px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/spaceapp-1280px.jpg
 
